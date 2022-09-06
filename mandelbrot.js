@@ -1,8 +1,6 @@
 const width  = 10
 const height = 10
 
-const screen_buffer = []
-
 let w = 115
 let h = 60
 
